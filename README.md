@@ -19,3 +19,4 @@
 [![](https://visitcount.itsvg.in/api?id=Jdkcodin&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jdkcodin&theme=react-dark&area=true&order=5)
